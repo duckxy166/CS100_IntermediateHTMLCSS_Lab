@@ -61,6 +61,7 @@ This file contains the structure we will style using CSS.
 - Add the following styles to your CSS file under the previous code:
     - Set font family to Arial for better readability.
 ```css
+font-family: Arial, Helvetica, sans-serif;
 ```
 
 ---
