@@ -2,6 +2,18 @@
         margin: 0cap;
         padding: 0cap;
         box-sizing: content-box;
-        font-family: Arial, Helvetica, sans-serif;
       }
        
+body {
+    
+    border-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, nav, article ,div ,footer { 
+    padding: 10px;
+    background-color: yellow;
+    border:1px solid gray;
+    text-align: center;
+}
+

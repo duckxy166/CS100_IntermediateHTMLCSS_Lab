@@ -7,7 +7,7 @@ This lab teaches students how to create a simple web page layout using HTML and 
 
 ### Files Needed
 - [`index.html`](index.html) (provided)
-- `layout.css` (to be created)
+- `layout.css` (to be created) (created) 
 
 ---
 
@@ -72,6 +72,13 @@ font-family: Arial, Helvetica, sans-serif;
     - Add borders as gray color solid lines to separate each section.
     - Center the text in each section.
 ```css
+header, nav, article ,div ,footer { 
+    padding: 10px;
+    background-color: yellow;
+    border:1px solid gray;
+    text-align: center;
+}
+
 ```
 
 ---
