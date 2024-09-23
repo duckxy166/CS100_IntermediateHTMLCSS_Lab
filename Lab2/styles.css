@@ -27,19 +27,23 @@ header p {
 /* Navigation Styles */
 nav {
     background-color: #ffa41b;
-    padding: 15px;
+    padding-top: 25px;
     text-align: center;
+    float: left;
+    width: 20%;
+    height: 100vh;
 }
 
 nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+
 }
 
 nav ul li {
     display: block;
-    margin: 15px;
+    margin: 20px 0;
 }
 
 nav ul li a {

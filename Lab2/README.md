@@ -58,6 +58,14 @@ nav ul li {
    - Make the sidebar extend to the full height of the viewport.
    - Add padding to the top of the navigation content.
 ```css
+nav {
+    background-color: #ffa41b;
+    padding-top: 25px;
+    text-align: center;
+    float: left;
+    width: 20%;
+    height: 100vh;
+}
 ```
 
 ---
